@@ -1,3 +1,4 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SoySH/service-noip-duc)
 🚀 No-IP DUC Installer (Systemd Edition)
 
 Script interactivo en Bash para instalar y desinstalar completamente el No-IP Dynamic Update Client (DUC) en sistemas Debian-based, creando un servicio systemd seguro y manejando credenciales mediante variables de entorno protegidas.
